@@ -1,1 +1,1 @@
-export const ServerURL = "http://localhost:5001";
+export const ServerURL = "https://pdf-rag-j2ug.onrender.com";
